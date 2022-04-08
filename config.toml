@@ -1,7 +1,7 @@
 baseURL = "https://manuel1488.github.io/my_launchx_blog/"
 languageCode = "en-us"
 title = "Bitácora de Viaje de Manuel Alfaro"
-theme = "hugo-developer-portfolio"
+theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
 
