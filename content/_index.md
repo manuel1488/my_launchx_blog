@@ -18,3 +18,7 @@ Te invito a conocer mis aprendizajes y leer mis experiencias en este viaje
 + API's
 + MVC
 + Despliegue
+
+ingredients:
+ - 1 potato
+ - 1 tomato
