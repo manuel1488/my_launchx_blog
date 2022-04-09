@@ -11,9 +11,9 @@ Te invito a conocer mis aprendizajes y leer mis experiencias en este viaje
 
 ### Expectativas de la misión Backend en Launch X
 
-+ Aprender el uso de **NodeJS**
-+ Aprender más de la integración del BackEnd con el FrontEnd
-+ Aprender el uso de Git y GitHub
+* Aprender el uso de **NodeJS**
+* Aprender más de la integración del BackEnd con el FrontEnd
+* Aprender el uso de Git y GitHub
 + Realizar pruebas
 + API's
 + MVC
